@@ -12,7 +12,7 @@ This lab exercised end-to-end ticket management in ServiceNow (SNOW). The primar
 ## Environment
 - Platform: ServiceNow
 - Directory: Active Directory (for password reset)
-- Demo recording: Loom link above
+
 
 ---
 
